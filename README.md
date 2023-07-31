@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=صلي+علي+سيدنا+محمد" style="color:black" />
+</p>
 
 <!--
 **mohamedSayedBayoumy/mohamedSayedBayoumy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
