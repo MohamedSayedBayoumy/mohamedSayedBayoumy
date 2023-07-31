@@ -1,7 +1,8 @@
-### Hi there 👋
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=صلي+علي+سيدنا+محمد" style="color:black" />
-</p>
+<h1 align="center"> وَ قُلْ رَبِّ زِدْنِي عِلْماً </h1>
+
+[![MasterHead]([https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io](https://lottiefiles.com/animations/happy-developer-c6SDJZ7C5D))
+
+<h3 align="center">A passionate FullStack Developer from India</h3>
 
 <!--
 **mohamedSayedBayoumy/mohamedSayedBayoumy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
