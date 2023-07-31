@@ -1,6 +1,6 @@
 <h1 align="center"> وَ قُلْ رَبِّ زِدْنِي عِلْماً </h1>
 
-![MasterHead]([[https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47867pqphftmh0x8isznifqngf8e4lr3odbbcpvg3e&ep=v1_gifs_search&rid=200w.webp&ct=g)](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl3aWU4cDFsejU0a2Y0cG0zMWpjMDllamFjdjE4b2VpNGplajRrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif))  
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXRZNmi4db-aifK6xMQ1SyxmnqoX-PFfKOtg)
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
 <!--
