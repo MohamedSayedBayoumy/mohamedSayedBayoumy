@@ -1,6 +1,6 @@
 <h1 align="center"> وَ قُلْ رَبِّ زِدْنِي عِلْماً </h1>
 
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXRZNmi4db-aifK6xMQ1SyxmnqoX-PFfKOtg)
+<h1 align="center">![MasterHead](https://media.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gif)
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
 <!--
