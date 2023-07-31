@@ -1,7 +1,10 @@
 <h1 align="center"> وَ قُلْ رَبِّ زِدْنِي عِلْماً </h1>
 
-![MasterHead](https://media.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gif)
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<img align="right" src="https://media.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gif" alt="Coder GIF" width="380" height="280">
+
+<h3>🚀 About Me</h3> 
+<h4> I'm Mohmaed Bayoumy from Egypt. I'm a Flutter Developer , I also enjoy Implementing of designs. For This Moment I'm junior Mobile developer </h4>
+
 
 <!--
 **mohamedSayedBayoumy/mohamedSayedBayoumy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
