@@ -1,11 +1,13 @@
 <h1 align="center"> وَ قُلْ رَبِّ زِدْنِي عِلْماً </h1>
+<h3 align="center"> صلي علي سيدنا محمد صلي الله عليه و سلم </h1>
+
 
 <img align="right" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif*" alt="Coder GIF" width="300" height="290">
 
-<h3>🚀 About Me</h3> 
-<h4> I'm Mohmaed Bayoumy from Egypt. I'm a Flutter Developer , I also enjoy Implementing of designs. For This Moment I'm junior Mobile developer </h4>
+<h3>🔭 About Me</h3> 
+<h4> I'm Mohmaed Bayoumy from Egypt, Flutter Developer , I also enjoy Implementing of designs. For This Moment junior Mobile developer For I YEAR </h4>
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 50% height=95px>
 
 
 <!--
