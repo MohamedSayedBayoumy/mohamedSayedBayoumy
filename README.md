@@ -1,6 +1,6 @@
 <h1 align="center"> وَ قُلْ رَبِّ زِدْنِي عِلْماً </h1>
 
-<img align="right" src="https://media.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gif" alt="Coder GIF" width="380" height="280">
+<img align="right" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif*" alt="Coder GIF" width="300" height="290">
 
 <h3>🚀 About Me</h3> 
 <h4> I'm Mohmaed Bayoumy from Egypt. I'm a Flutter Developer , I also enjoy Implementing of designs. For This Moment I'm junior Mobile developer </h4>
