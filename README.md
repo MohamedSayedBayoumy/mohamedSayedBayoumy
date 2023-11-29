@@ -7,7 +7,6 @@
 <h3>🔭 About Me</h3> 
 <h4> I'm Mohmaed Bayoumy from Egypt, Flutter Developer , I also enjoy Implementing of designs. For This Moment junior Mobile developer For I YEAR </h4>
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 50% height=95px>
 
  
 <h3 align="left"> 💬 Connect with me:</h3>
