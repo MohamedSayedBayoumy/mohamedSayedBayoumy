@@ -12,7 +12,7 @@
 <h3 align="left"> 💬 Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/mando.bob.9674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohamed-sayed-bayoumy-036205232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+ 
 <a href="https://api.whatsapp.com/send?phone=01114205280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="rishavchanda" height="30" width="40" /></a>
 </p>
 <!--
