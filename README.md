@@ -5,7 +5,11 @@
 <img align="right" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif*" alt="Coder GIF" width="300" height="290">
 
 <h3>🔭 About Me</h3> 
-<h4> I'm Mohmaed Bayoumy from Egypt, Flutter Developer , I also enjoy Implementing of designs. For This Moment junior Mobile developer For I YEAR </h4>
+<h4> I bring a year and half of hands on experience in software development, contributing impactful solutions to Four
+reputable companies. My portfolio showcases the creation of four versatile mobile applications and websites using
+the innovative Flutter framework. Demonstrating adaptability, I possess the capability to proficiently publish
+apps on Google Play and the App Store, reflecting my adeptness in delivering comprehensive .. .
+</h4>
 
 
  
