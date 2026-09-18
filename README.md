@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-sayed-bayoumy-036205232/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohamedsayedbayoumy639@gmail.com" />`mohamedsayedbayoumy639@gmail.com`</a> 
+  <a><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohamedsayedbayoumy639@gmail.com" /></a> 
   <a href="https://mohamedsayedbayoumy.github.io/portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
 </p>
 
